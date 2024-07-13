@@ -1,2 +1,2 @@
 # Stepper_Motor_Control
-For Master Thesis
+For Master Thesis Only
